@@ -207,7 +207,3 @@
 </p>
 
 <hr>
-
-<p align="center">
-  <i>Last Updated: 2026</i>
-</p>
